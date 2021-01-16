@@ -1,0 +1,4 @@
+1、	The pid is not strictly continuous.
+2、	Many processes may have exactly the same name.
+3、	There are only 2~3 process in the running state. Others are sleeping.
+4、	The process whose pid equals to 1 is not called init, but called systemd instead..

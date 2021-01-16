@@ -1,0 +1,51 @@
+parallels@parallels-vm:~/Desktop/problem$ javac -d . *.java
+parallels@parallels-vm:~/Desktop/problem$ java main.Main 2 4 41 10
+Cooks [2], Cashiers [4], Customers [41]
+Begin run
+ Customer [36] come.
+Casher [1] accepts an order.
+ Customer [17] come.
+Casher [3] accepts an order.
+ Customer [41] come.
+Casher [2] accepts an order.
+ Customer [29] come.
+Casher [4] accepts an order.
+Cook [1] make a burger.
+Casher [1] take a burger to customor.
+Cook [2] make a burger.
+Casher [3] take a burger to customor.
+ Customer [36] come.
+Casher [1] accepts an order.
+ Customer [17] come.
+Casher [3] accepts an order.
+Cook [1] make a burger.
+Casher [2] take a burger to customor.
+Cook [2] make a burger.
+Casher [4] take a burger to customor.
+ Customer [29] come.
+Casher [4] accepts an order.
+ Customer [41] come.
+Casher [2] accepts an order.
+Cook [1] make a burger.
+Casher [1] take a burger to customor.
+Cook [2] make a burger.
+Casher [3] take a burger to customor.
+ Customer [36] come.
+Casher [1] accepts an order.
+ Customer [17] come.
+Casher [3] accepts an order.
+Cook [1] make a burger.
+Casher [4] take a burger to customor.
+Cook [2] make a burger.
+Casher [2] take a burger to customor.
+ Customer [29] come.
+Casher [4] accepts an order.
+ Customer [41] come.
+Casher [2] accepts an order.
+Cook [2] make a burger.
+Casher [1] take a burger to customor.
+Cook [1] make a burger.
+Casher [3] take a burger to customor.
+Cook [2] make a burger.
+Casher [4] take a burger to customor.
+
